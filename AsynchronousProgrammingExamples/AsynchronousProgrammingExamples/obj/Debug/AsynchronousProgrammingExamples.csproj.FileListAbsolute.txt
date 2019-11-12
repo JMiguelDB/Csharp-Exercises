@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\bin\Debug\AsynchronousProgrammingExamples.exe.config
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\bin\Debug\AsynchronousProgrammingExamples.exe
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\bin\Debug\AsynchronousProgrammingExamples.pdb
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\obj\Debug\AsynchronousProgrammingExamples.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\obj\Debug\AsynchronousProgrammingExamples.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\obj\Debug\AsynchronousProgrammingExamples.exe
+C:\Users\PC\Desktop\Ejercicios C#\AsynchronousProgrammingExamples\AsynchronousProgrammingExamples\obj\Debug\AsynchronousProgrammingExamples.pdb
