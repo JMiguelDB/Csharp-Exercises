@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\bin\Debug\EventDrivenProgrammingExample.exe.config
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\bin\Debug\EventDrivenProgrammingExample.exe
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\bin\Debug\EventDrivenProgrammingExample.pdb
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\obj\Debug\EventDrivenProgrammingExample.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\obj\Debug\EventDrivenProgrammingExample.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\obj\Debug\EventDrivenProgrammingExample.exe
+C:\Users\PC\Desktop\Ejercicios C#\EventDrivenProgrammingExample\EventDrivenProgrammingExample\obj\Debug\EventDrivenProgrammingExample.pdb
