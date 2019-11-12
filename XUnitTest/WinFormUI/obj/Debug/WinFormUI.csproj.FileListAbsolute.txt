@@ -1,0 +1,39 @@
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\bin\Debug\PersonText.txt
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\TestingDemo\WinFormUI\obj\Debug\WinFormUI.pdb
+C:\Temp\DemoLibrary\WinFormUI\bin\Debug\PersonText.txt
+C:\Temp\DemoLibrary\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Temp\DemoLibrary\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Temp\DemoLibrary\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Temp\DemoLibrary\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Temp\DemoLibrary\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
+C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Temp\DemoLibrary\WinFormUI\obj\Debug\WinFormUI.pdb
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\bin\Debug\PersonText.txt
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\WinFormUI\obj\Debug\WinFormUI.pdb

@@ -1,0 +1,38 @@
+C:\Temp\DemoLibrary\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.abstractions.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\DemoLibrary.Tests.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\DemoLibrary.Tests.pdb
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\DemoLibrary.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.assert.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.core.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\DemoLibrary.pdb
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.assert.xml
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.core.xml
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Temp\DemoLibrary\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.dll
+C:\Temp\DemoLibrary\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.pdb
+C:\Temp\DemoLibrary\DemoLibrary.Tests\bin\Debug\xunit.runner.json
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.runner.json
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\DemoLibrary.Tests.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\DemoLibrary.Tests.pdb
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\DemoLibrary.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.assert.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.core.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\DemoLibrary.pdb
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.assert.xml
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.core.xml
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.csproj.CopyComplete
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.dll
+C:\Users\PC\Desktop\Ejercicios C#\XUnitTest\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.pdb
