@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\obj\Debug\ClassesExamples2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\obj\Debug\ClassesExamples2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\bin\Debug\ClassesExamples2.exe.config
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\bin\Debug\ClassesExamples2.exe
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\bin\Debug\ClassesExamples2.pdb
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\obj\Debug\ClassesExamples2.exe
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\ClassesExamples2\obj\Debug\ClassesExamples2.pdb

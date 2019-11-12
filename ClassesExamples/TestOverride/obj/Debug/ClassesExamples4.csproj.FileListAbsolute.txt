@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\TestOverride\bin\Debug\TestOverride.exe.config
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\TestOverride\bin\Debug\TestOverride.exe
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\TestOverride\bin\Debug\TestOverride.pdb
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\TestOverride\obj\Debug\ClassesExamples4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\TestOverride\obj\Debug\TestOverride.exe
+C:\Users\PC\Desktop\Ejercicios C#\ClassesExamples\TestOverride\obj\Debug\TestOverride.pdb
